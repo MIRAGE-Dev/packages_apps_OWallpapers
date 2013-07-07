@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OW 배경화면</string>
+    <string name="solid_color">단색</string>
+    <string name="pick_color">색깔을 선택하세요</string>
+    <string name="red">빨강</string>
+    <string name="green">초록</string>
+    <string name="blue">파랑</string>
+    <string name="purple">퍼플</string>
+    <string name="orange">오렌지</string>
+    <string name="white">하양</string>
+    <string name="bright_green">밝은 초록</string>
+    <string name="black">검정</string>
+    <string name="action_apply">적용</string>
+    <string name="applying">배경화면 적용 중</string>
+
+</resources>

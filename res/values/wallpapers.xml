@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2012 ParanoidAndroid Project
+
+     Licensed under the GNU GPLv2 license
+
+     The text of the license can be found in the LICENSE file
+     or at https://www.gnu.org/licenses/gpl-2.0.txt
+-->
+
+<resources>
+    <string-array name="wallpapers" translatable="false">
+        <item>wallpaper_0</item>
+        <item>wallpaper_1</item>
+        <item>wallpaper_2</item>
+        <item>wallpaper_3</item>
+        <item>wallpaper_4</item>
+        <item>wallpaper_5</item>
+        <item>wallpaper_6</item>
+        <item>wallpaper_7</item>
+    </string-array>
+
+    <string-array name="info" translatable="false">
+        <item>OPEN WISE</item>
+        <item>Simple Black</item>
+        <item>Orange Windows</item>
+        <item>MIRAGE</item>
+        <item>Eagle Eye</item>
+        <item>Coniferous Forest</item>
+        <item>Country Road</item>
+        <item>Minion</item>
+    </string-array>
+</resources>
